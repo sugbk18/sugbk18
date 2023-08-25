@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sudhiryadav0189@gmail.com**
 
-- 📄 Know about my experiences [Data Analyst @ Piramal Alternatives](Data Analyst @ Piramal Alternatives)
+- 📄 Know about my experiences [Data Analyst @ Piramal Alternatives]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
