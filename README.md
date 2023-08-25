@@ -1,7 +1,7 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://sugbk18.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://sugbk18.io)
 <h1 align="center">Hi 👋, I'm Sudhir Yadav</h1>
 <h3 align="center">Data Whisperer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61131314/136562272-245dcf5e-8487-46cb-b950-4dc296e65e04.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/profile-pic-cool-sky-traveller-cartoon-animation-ewbcqc4tkkchah6k.gif">
 
 - 🔭 I’m currently working on **Recommender Systems**
 
