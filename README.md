@@ -1,8 +1,7 @@
-[![MasterHead]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))](https://sugbk18.io)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://sugbk18.io)
 <h1 align="center">Hi 👋, I'm Sudhir Yadav</h1>
 <h3 align="center">Data Whisperer</h3>
-
-<p align="left"> <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123155116/original/ada692539ed9ea12a2d20bf054ab5316d211254b/create-illustrative-instagram-twitch-and-youtube-profile-pictures.jpg" alt="sugbk18" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61131314/136562272-245dcf5e-8487-46cb-b950-4dc296e65e04.gif">
 
 - 🔭 I’m currently working on **Recommender Systems**
 
@@ -25,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugbk18&show_icons=true&locale=en&layout=compact" alt="sugbk18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugbk18&show_icons=true&locale=en" alt="sugbk18" /></p>
+
 
