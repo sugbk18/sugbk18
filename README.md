@@ -1,27 +1,62 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://sugbk18.io)
 <h1 align="center">Hi 👋, I'm Sudhir Yadav</h1>
-<h3 align="center">Data Whisperer</h3>
+<h3 align="center">⚡ Data Scientist | GenAI Builder | ML Engineer ⚡</h3>
 
-- 🔭 I’m currently working on **Recommender Systems**
+```
 
-- 🌱 I’m currently learning **machine learning techniques via Applied AI course.**
+🌌 *"Turning data into stories, algorithms into impact."*
 
-- 💬 Ask me about **python**
+```
+╔══════════════════════════════════════════════╗
+║🧠Machine Learning · 🤖 NLP/LLMs · 🚀 MLOps    
+╚══════════════════════════════════════════════╝
+```
 
-- 📫 How to reach me **sudhiryadav0189@gmail.com**
+---
 
-- 📄 Know about my experiences [Data Analyst @ Piramal Alternatives]
+### 🛠️ My Tech Radar
 
-<h3 align="left">Connect with me:</h3>
+**Core Tools:** Python · SQL · Power BI · Excel · Git
+**ML/DL:** Pandas · NumPy · Scikit-learn · TensorFlow · Keras · Transformers
+**GenAI:** LangChain · RAG · Prompt Engineering · Agentic AI
+**MLOps:** DVC · MLflow · Docker · FastAPI · AWS · GitHub Actions · Kubernetes
+
+---
+
+### 📈 Sudhir’s Data Journey
+
+* 🔭 Currently: Building **RAG-powered AI Agents** & driver churn models at scale.
+* 🎓 Past: Risk Analyst @ Finance + Predictive Analytics in Ride-hailing.
+* 🎯 Vision: Scalable, production-grade **AI for real-world impact**.
+
+---
+
+### 📬 Let’s Connect
+
 <p align="left">
 <a href="https://linkedin.com/in/sugbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugbk" height="30" width="40" /></a>
+<a href="mailto:sudhiryadav0189@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+### 🎮 Fun Zone
+
+<details>
+  <summary>💡 Random Fact</summary>
+  🚀 I once explained **SQL schemas using Docker containers** — it actually worked!
+</details>
+
+<details>
+  <summary>🎵 My Flow</summary>
+  🎹 Playing keyboard | ✨ Stargazing | 🎨 Sketching | 🎧 Music on loop
+</details>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugbk18&show_icons=true&locale=en&layout=compact" alt="sugbk18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugbk18&show_icons=true&locale=en" alt="sugbk18" /></p>
 
+---
 
