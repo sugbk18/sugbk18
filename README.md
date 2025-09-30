@@ -7,9 +7,9 @@
 
 ```
 
-╔════════════════════════════════════════════════╗
-║    🧠 Machine Learning · 🤖 NLP/LLMs · 🚀 MLOps   ║
-╚════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════╗
+🧠Machine Learning · 🤖 NLP/LLMs · 🚀 MLOps   
+╚═══════════════════════════════════════════╝
 
 ```
 
@@ -23,15 +23,13 @@
 
 ---
 
-### 📈 Sudhir’s Data Journey  
+### 📈 My Data Journey  
 - 🔭 Currently: Building **RAG-powered AI Agents** & predictive churn models at scale.  
 - 🎓 Past: Risk Analyst in Finance + Predictive Analytics in Ride-hailing.  
 - 🎯 Vision: Scalable, production-grade **AI for real-world impact**.  
 
 ---
 
-
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugbk18&show_icons=true&locale=en&layout=compact" alt="sugbk18" /></p>
 
