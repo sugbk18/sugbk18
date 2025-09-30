@@ -30,24 +30,6 @@
 
 ---
 
-### 📬 Let’s Connect  
-<p align="left">
-<a href="https://linkedin.com/in/sugbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugbk" height="30" width="40" /></a>
-<a href="mailto:sudhiryadav0189@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" /></a>
-</p>
-
----
-
-### 🎮 Fun Zone
-<details>
-  <summary>💡 Random Fact</summary>
-  🚀 I once explained **SQL schemas using Docker containers** — it actually worked!
-</details>
-
-<details>
-  <summary>🎵 My Flow</summary>
-  🎹 Playing keyboard | ✨ Stargazing | 🎨 Sketching | 🎧 Music on loop
-</details>
 
 ---
 
